@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>http://localhost:4000</link>
+    <description>
+      My base of opoerations on the internet
+    </description>
+    
+        
+            <item>
+                <title>What people think programming is vs. how it actually is</title>
+                <link>http://localhost:4000/programming/2021/01/09/What-People-Think/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>My friend JK from Japan saw this and he said it made him think of me. It hilarious how true it is.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HluANRwPyNo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/programming/2021/01/09/What-People-Think/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 09 Jan 2021 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Another Chess Game No Blunders</title>
+                <link>http://localhost:4000/chess/2021/01/08/Another-No-Blunders-Game/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>I used to think I was pretty good at chess, but now that I am getting back into it I am just happy to have a game
+with no blunders.</strong></p>
+
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css" />
+
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay">
+
+[Event "Live Chess - chess"]
+[Site "Chess.com"]
+[Date "2021.01.08"]
+[Round "?"]
+[White "15953392"]
+[Black "cgbharat"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "1223"]
+[BlackElo "1173"]
+[Termination "15953392 won by checkmate"]
+
+1. e4 {[%clk 0:10:00][%timestamp 0]} 1... e6 {[%clk 0:10:00][%timestamp 0]} 2.
+e5 {[%clk 0:09:58.3][%timestamp 17]} 2... d5 {[%clk 0:09:59][%timestamp 10]} 3.
+exd6 {[%clk 0:09:56.4][%timestamp 19]} 3... cxd6 {[%clk 0:09:57.4][%timestamp
+16]} 4. d4 {[%clk 0:09:53.7][%timestamp 27]} 4... d5 {[%clk
+0:09:56.8][%timestamp 6]} 5. Nf3 {[%clk 0:09:48.3][%timestamp 54]} 5... a6
+{[%clk 0:09:55.4][%timestamp 14]} 6. Bd3 {[%clk 0:09:44.1][%timestamp 42]} 6...
+b5 {[%clk 0:09:53.9][%timestamp 15]} 7. a4 {[%clk 0:09:40.5][%timestamp 36]}
+7... b4 {[%clk 0:09:42.5][%timestamp 114]} 8. Bd2 {[%clk 0:09:34.1][%timestamp
+64]} 8... Nf6 {[%clk 0:09:38.6][%timestamp 39]} 9. Bg5 {[%clk
+0:09:28.6][%timestamp 55]} 9... a5 {[%clk 0:09:33.2][%timestamp 54]} 10. Bb5+
+{[%clk 0:09:24.9][%timestamp 37]} 10... Bd7 {[%clk 0:09:30.2][%timestamp 30]}
+11. Bxd7+ {[%clk 0:09:22.1][%timestamp 28]} 11... Qxd7 {[%clk
+0:09:28.9][%timestamp 13]} 12. Bxf6 {[%clk 0:09:19.6][%timestamp 25]} 12... gxf6
+{[%clk 0:09:26.6][%timestamp 23]} 13. O-O {[%clk 0:09:18][%timestamp 16]} 13...
+Bg7 {[%clk 0:09:21.1][%timestamp 55]} 14. c3 {[%clk 0:09:12.1][%timestamp 59]}
+14... bxc3 {[%clk 0:09:14.8][%timestamp 63]} 15. Nxc3 {[%clk
+0:09:10.3][%timestamp 18]} 15... Nc6 {[%clk 0:09:01.5][%timestamp 133]} 16. Qb3
+{[%clk 0:09:05.2][%timestamp 51]} 16... Rb8 {[%clk 0:08:54.1][%timestamp 74]}
+17. Qc2 {[%clk 0:08:59][%timestamp 62]} 17... f5 {[%clk 0:08:47.4][%timestamp
+67]} 18. Rad1 {[%clk 0:08:53.4][%timestamp 56]} 18... Nb4 {[%clk
+0:08:31.3][%timestamp 161]} 19. Qd2 {[%clk 0:08:45.7][%timestamp 77]} 19... O-O
+{[%clk 0:08:13.2][%timestamp 181]} 20. Nb5 {[%clk 0:08:38.8][%timestamp 69]}
+20... Rfc8 {[%clk 0:07:42.3][%timestamp 309]} 21. Rc1 {[%clk
+0:08:35.2][%timestamp 36]} 21... Rd8 {[%clk 0:07:23.3][%timestamp 190]} 22. Ne5
+{[%clk 0:08:26.6][%timestamp 86]} 22... Bxe5 {[%clk 0:07:06.3][%timestamp 170]}
+23. dxe5 {[%clk 0:08:25.1][%timestamp 15]} 23... Rdc8 {[%clk
+0:06:43.8][%timestamp 225]} 24. Qg5+ {[%clk 0:08:18.6][%timestamp 65]} 24... Kf8
+{[%clk 0:06:30.9][%timestamp 129]} 25. Rxc8+ {[%clk 0:08:10.9][%timestamp 77]}
+25... Rxc8 {[%clk 0:06:28.6][%timestamp 23]} 26. Nd6 {[%clk
+0:08:09.6][%timestamp 13]} 26... Nc6 {[%clk 0:05:50.8][%timestamp 378]} 27. Qf6
+{[%clk 0:08:04.1][%timestamp 55]} 27... Rc7 {[%clk 0:05:16.2][%timestamp 346]}
+28. h4 {[%clk 0:07:58.2][%timestamp 59]} 28... Qe7 {[%clk 0:04:57.7][%timestamp
+185]} 29. Qh8# {[%clk 0:07:55.9][%timestamp 23]} 1-0
+</div>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/chess/2021/01/08/Another-No-Blunders-Game/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 08 Jan 2021 16:30:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>I am just too sensitive to animal suffering</title>
+                <link>http://localhost:4000/vegan/2021/01/08/Animal-Suffering/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I am Vegan, and I will remain so for the rest of my life. I haver tried watching some of the Vegan and PETA propaganda videos such as 
+Earthlings and (God Forbid) Dominion. I know these things show the brutal truth about slaughter houses but I am just not able to 
+tolerate watching so much cruelty to animals. I have watched many horror movies in my life but I have never seen anything as brutal
+and cruel as the things shown in these films. Never in my life would I wish for anyone to watch Dominion and I would never ever let a 
+child watch such terrible things. I can’t control the world and I can’t control other people but I know in my heart I cannot 
+contribute to such horrifying treatment of animals. I know animals die, I know that we die. The problem I have with slaughter houses
+is not that animals die in them but rather the excessive cruelty and pain and suffering these animnals undergo in the name of
+industrial efficiency.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/vegan/2021/01/08/Animal-Suffering/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 08 Jan 2021 09:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>The Souls of Animals</title>
+                <link>http://localhost:4000/animals/2021/01/05/The-souls-of-animals/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>“We need another and a wiser and perhaps a more mystical concept of animals. Remote from universal nature and living by complicated artifice, man in civilization surveys the creature through the glass of his knowledge and sees thereby a feather magnified and the whole image in distortion. We patronize them for their incompleteness, for their tragic fate for having taken form so far below ourselves. And therein do we err. For the animal shall not be measured by man. In a world older and more complete than ours, they move finished and complete, gifted with the extension of the senses we have lost or never attained, living by voices we shall never hear. They are not brethren, they are not underlings: they are other nations, caught with ourselves in the net of life and time, fellow prisoners of the splendour and travail of the earth.”</strong><br />
+― Henry Beston, The Outermost House: A Year of Life on the Great Beach of Cape Cod</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/animals/2021/01/05/The-souls-of-animals/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 05 Jan 2021 11:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Bear and Forbear</title>
+                <link>http://localhost:4000/stoicism/2021/01/05/Bear-and-Forbear/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>The great stoic Epictetus had a golden saying (that I got a tattoo of) “Bear and Forbear”. Meaning that we had to endure and had to have restraint and discipline in order to have the best life. 
+The great stoic Marcus Aurelius said that we must accept that each day we will meet selfish, impertinent and greedy people. His point being that once we expect this and understand it those people and condition will be easier to bear. Today is really pushing me to that limit and I am forced to remind myself multiple times that I should have expected this and I must endure.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/stoicism/2021/01/05/Bear-and-Forbear/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 05 Jan 2021 06:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Aleister Crowley Quote</title>
+                <link>http://localhost:4000/life/2021/01/04/Alister-Crowley-Quote/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Crowley is an interesting character and his wisdom has to be taken with a grain of salt in general, but I like this quote.</p>
+
+<p><img src="/images/crowley.jpg" alt="Crowley" /></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2021/01/04/Alister-Crowley-Quote/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 04 Jan 2021 12:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>100% Pokemon</title>
+                <link>http://localhost:4000/pokemon/go/2021/01/04/Pokemon-100/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I caught this bad boy over the holiday weekend. Kinda useless for PVP but still cool</p>
+
+<p><img src="/images/delibird100.png" alt="delibird100" /></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/pokemon/go/2021/01/04/Pokemon-100/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 04 Jan 2021 11:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>My mantra for the New Year</title>
+                <link>http://localhost:4000/life/2021/01/04/New-Years-Mantra/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>2020 was quite an ordeal. I know that we are not completely out of the woods yet, but I am reminded of the word of Kilgore Trout from the novel Timequake by Kurt Vonnegut. <br /></p>
+
+<div style="text-align: center;"> “You were sick, but now you're well again, and there's work to do.”
+
+― Kurt Vonnegut (Kilgore Trout, Timequake</div>
+<p><br />
+I think there is a special wisdom in these words that will help us all reach the light at the end of the tunnel.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2021/01/04/New-Years-Mantra/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 04 Jan 2021 10:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>First Rated Tournament of the New Year</title>
+                <link>http://localhost:4000/chess/2021/01/02/First-Rated-Chess-Tournement-2021/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>I was fairly dissappointed in my performance for this tournament</strong><br /><br />
+<strong>Game 1.</strong><br /></p>
+
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css" />
+
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<p>On this game I flubbed the Knight to d4 move, I was in a decent position and there was no need to force that part of the board, my smarter move was to push the h-pawn to h5. My biggest blunder was Knight capturing on F5. Rook to E2 would have been better. <br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/LT08ISeQ"]
+[Date "2021.01.02"]
+[White "woh3"]
+[Black "Shamgar331"]
+[Result "0-1"]
+[UTCDate "2021.01.02"]
+[UTCTime "20:20:30"]
+[WhiteElo "1600"]
+[BlackElo "1506"]
+[WhiteRatingDiff "-43"]
+[BlackRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C00"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 b6 3. Nc3 Bb7 4. Nf3 Bb4 5. Bd2 Bxc3 6. Bxc3 Bxe4 7. Bd3 Bb7 8. Qe2 Nf6 9. O-O-O d5 10. Bb4 Nbd7 11. h4 c5 12. dxc5 bxc5 13. Ba3 Qa5 14. Bb5 O-O 15. Nd4 Rfc8 16. Bxd7 Nxd7 17. Nf3 Ba6 18. Qd2 Qxd2+ 19. Rxd2 c4 20. c3 Nc5 21. g4 Nd3+ 22. Kb1 Rab8 23. Nd4 Rb6 24. g5 Nc5 25. Bxc5 Rxc5 26. f4 Bc8 27. Kc1 a5 28. h5 a4 29. g6 fxg6 30. hxg6 h6 31. Rf1 Rb8 32. f5 exf5 33. Nxf5 Bxf5 34. Rxf5 Rf8 35. Rfxd5 Rcc8 36. Rd6 Rf6 37. Rd8+ Rxd8 38. Rxd8+ Rf8 39. Rd6 Rf1+ 40. Kc2 Rf2+ 41. Kc1 Rf1+ 42. Kc2 Rf2+ 43. Rd2 Rxd2+ 44. Kxd2 Kf8 45. Kc2 Ke7 46. b3 axb3+ 47. axb3 cxb3+ 48. Kxb3 Kd6 49. Kc4 Kc6 50. Kd4 Kd6 51. Kc4 h5 52. Kd4 h4 53. c4 Kc6 54. c5 h3 55. Ke3 h2 0-1
+</div>
+<p><br /><br />
+<strong>Game 2.</strong>
+In this game my first mistake was pushing my queen 9ut to H4. Best move would have been to pull thye Knight back. After that there were plenty of blunders on both sides. <br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/9vLiaPdp"]
+[Date "2021.01.02"]
+[White "AustinH007"]
+[Black "woh3"]
+[Result "1-0"]
+[UTCDate "2021.01.02"]
+[UTCTime "19:47:09"]
+[WhiteElo "1700"]
+[BlackElo "1630"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-30"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 h6 5. Nc3 Nf6 6. Bd2 a6 7. a3 b5 8. Ba2 O-O 9. O-O Bb7 10. Bd5 Nxd5 11. Nxd5 d6 12. Be3 Bd4 13. Nxd4 exd4 14. Bd2 Ne5 15. Nf4 Bc8 16. Ne2 c5 17. f4 Ng4 18. h3 Qh4 19. hxg4 Bxg4 20. Qe1 Qh5 21. Ng3 Qg6 22. f5 Qh7 23. Rf4 h5 24. Kf2 g6 25. fxg6 fxg6 26. Rxf8+ Rxf8+ 27. Kg1 h4 28. Nh1 h3 29. gxh3 Bf3 30. Kh2 Bg4 31. Qg3 Qh5 32. Rg1 Bf3 33. Qxg6+ Qxg6 34. Rxg6+ Kh7 35. Rxd6 Bxh1 36. Kxh1 Rf2 37. Ba5 Rxc2 38. e5 Rxb2 39. e6 Re2 40. Rd7+ Kh6 41. e7 Kg6 42. Bd8 Kf7 43. Ra7 Re3 44. Kg2 Rxd3 45. Rxa6 c4 46. Rc6 c3 47. Rc5 Rd2+ 48. Kf3 Rd3+ 49. Ke4 Rxh3 50. Rf5+ Ke8 51. Rf8+ Kd7 52. e8=Q+ Kc8 53. Ba5+ Kb7 54. Qxb5+ Ka7 55. Qb6# 1-0
+</div>
+<p><br /><br />
+<strong>Game 3.</strong>
+Here my bishop to G4 attacking the Queen was a mistake. Even though I won. <br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/o0Ksu6q2"]
+[Date "2021.01.02"]
+[White "dhruvchess123"]
+[Black "woh3"]
+[Result "0-1"]
+[UTCDate "2021.01.02"]
+[UTCTime "19:14:59"]
+[WhiteElo "1449"]
+[BlackElo "1603"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+27"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Qf6 5. Nc3 Nge7 6. b3 a6 7. Bb2 d6 8. Nd5 Nxd5 9. Bxd5 Bd7 10. d3 O-O-O 11. c3 h5 12. d4 exd4 13. Nxd4 Bxd4 14. cxd4 Qg6 15. Qf3 f6 16. Rac1 Bg4 17. Qg3 h4 18. Be6+ Kb8 19. Qxg4 Qxg4 20. Bxg4 Nb4 21. a3 Nd3 22. Rc2 Rh6 23. h3 Re8 24. Re1 Nxe1 25. Re2 Nd3 26. Bc3 Nf4 27. Re3 g6 28. Bf3 f5 29. e5 dxe5 30. dxe5 g5 31. Bd4 g4 32. hxg4 fxg4 33. Bxg4 Nd5 34. Re4 Nf6 35. Rf4 Nxg4 36. Rxg4 h3 37. gxh3 Rxh3 38. Rg3 Rh4 39. Bb2 Re4 40. Re3 Rg8+ 41. Kf1 Rh4 42. e6 Re8 43. e7 Rh7 44. Bf6 Rf7 45. Rf3 Rexe7 46. Kg2 Re6 47. Bd4 Rg6+ 48. Kf1 Rxf3 49. Ke2 Rxb3 50. f4 Rg2+ 51. Kf1 Ra2 52. f5 Rb1# 0-1
+</div>
+<p><br /><br />
+<strong>Game 4.</strong>
+I was ahead in this game but then flubbed it when I let him put his rook on D1 taking my Queen advantage. AAAAAARGHH!!<br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/wKZw3Xgf"]
+[Date "2021.01.02"]
+[White "woh3"]
+[Black "Zeydragon"]
+[Result "0-1"]
+[UTCDate "2021.01.02"]
+[UTCTime "18:42:26"]
+[WhiteElo "1664"]
+[BlackElo "1550"]
+[WhiteRatingDiff "-61"]
+[BlackRatingDiff "+12"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "C50"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 h6 4. Nc3 Nf6 5. d4 exd4 6. Nxd4 Ne5 7. Bb3 Bb4 8. O-O O-O 9. Nf5 d6 10. Nxh6+ gxh6 11. Bxh6 Bxc3 12. Bxf8 Bxb2 13. Rb1 Kxf8 14. Rxb2 Nxe4 15. Re1 Nc5 16. Rxe5 Nxb3 17. Rxb3 Be6 18. Rd3 Bc4 19. Rh3 dxe5 20. Rh8+ Ke7 21. Rxd8 Rxd8 22. Qc1 Be2 23. h4 Rd1+ 24. Qxd1 Bxd1 25. c3 Kd6 26. Kh2 Be2 27. g3 Ke6 28. Kh3 Kf6 29. g4 Kg6 30. Kg3 f5 31. g5 f4+ 32. Kg2 Kh5 33. Kh3 Bg4+ 34. Kg2 Kxh4 35. g6 Be6 36. g7 Kh5 37. Kf3 Kg6 38. Ke4 Kxg7 39. Kxe5 Bxa2 40. Kxf4 Kf6 41. Ke4 a5 42. Kd4 a4 43. Kd3 a3 44. Kc2 Ke5 45. f3 Kf4 46. c4 Kxf3 47. c5 b6 48. cxb6 cxb6 49. Kc3 Ke4 50. Kb4 Bb1 51. Kxa3 Kd4 52. Kb4 Bd3 53. Kb3 b5 54. Kb4 Kd5 55. Kc3 Bf1 56. Kb4 Kc6 57. Kb3 Kc5 58. Kc3 b4+ 59. Kb3 Bd3 60. Kb2 Kc4 61. Kc1 b3 62. Kb2 Kb4 63. Kc1 Kc3 64. Kd1 b2 0-1
+</div>
+<p><br /><br />
+<strong>Game 5.</strong>
+In this game my Knight to A4 was a blunder. Trying to push the Queen with Rook D6 was a huge blunder. <br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/SZotrPJy"]
+[Date "2021.01.02"]
+[White "snorlax0710"]
+[Black "woh3"]
+[Result "0-1"]
+[UTCDate "2021.01.02"]
+[UTCTime "18:07:21"]
+[WhiteElo "1483"]
+[BlackElo "1631"]
+[WhiteRatingDiff "-28"]
+[BlackRatingDiff "+33"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B06"]
+[Termination "Normal"]
+
+1. d4 g6 2. Nf3 Bg7 3. e4 d6 4. Nc3 Bg4 5. Be2 Bxf3 6. Bxf3 Nc6 7. Be3 e5 8. d5 Nce7 9. Bg4 Nf6 10. h3 O-O 11. Qd2 c6 12. Bh6 Qb6 13. Na4 Qb5 14. Bxg7 Kxg7 15. Nc3 Qxb2 16. Rb1 Qa3 17. Rxb7 Nexd5 18. exd5 cxd5 19. Rb3 Qa5 20. Rb5 Qa3 21. O-O d4 22. Nd5 Ne4 23. Qe2 Nc3 24. Nxc3 Qxc3 25. Bf3 Rab8 26. Rfb1 Rxb5 27. Rxb5 Qa1+ 28. Kh2 Qxa2 29. Rd5 Qa3 30. Qd2 f5 31. Ra5 Qb2 32. Rxa7+ Rf7 33. Ra6 e4 34. Bd1 Qb8 35. Qxd4+ Kg8 36. Rxd6 Rd7 37. Qd5+ Kf8 38. Be2 Rxd6 39. Qc5 Ke7 40. g3 Qd8 41. Qe5+ Kd7 42. Qg7+ Qe7 43. Bb5+ Ke6 44. Bc4+ Kd7 45. Bb5+ Kd8 46. Qg8+ Kc7 47. Qc4+ Kb6 48. Ba4 Qe5 49. Qb3+ Ka5 50. c4 Rb6 51. Bb5 Rxb5 52. cxb5 Qxb5 53. Qg8 Qb7 54. Qa2+ Kb6 55. Qb3+ Kc6 56. Qa4+ Qb5 57. Qc2+ Kb6 58. Kg2 Qc6 59. Qb3+ Kc7 60. Qf7+ Kb6 61. Qxh7 e3+ 62. Kf1 Qh1+ 63. Ke2 exf2 64. Qxg6+ Kb7 65. Qf7+ Ka8 66. Qxf5 Qe1+ 67. Kd3 f1=Q+ 68. Qxf1 Qxf1+ 69. Ke4 Qxh3 70. Kf4 Kb7 71. g4 Qh4 72. Kf5 Kc6 73. g5 Qh7+ 74. g6 Qd7+ 75. Kf6 Kd6 76. g7 Qe6+ 77. Kg5 Ke7 0-1
+</div>
+<p><br /><br />
+<strong>Game 6.</strong>
+Pushing my pawns on the right side were all mistakes. This game was just terrible.<br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/jzQbwK89"]
+[Date "2021.01.02"]
+[White "woh3"]
+[Black "AmazingFrisbee"]
+[Result "0-1"]
+[UTCDate "2021.01.02"]
+[UTCTime "17:33:58"]
+[WhiteElo "1659"]
+[BlackElo "1867"]
+[WhiteRatingDiff "-28"]
+[BlackRatingDiff "+5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B20"]
+[Termination "Normal"]
+
+1. e4 c5 2. Bc4 Nc6 3. Nf3 e6 4. Nc3 a6 5. d4 cxd4 6. Nxd4 Nge7 7. Nxc6 Nxc6 8. Be3 g6 9. Qf3 Bg7 10. Bd2 Ne5 11. Qe2 Nxc4 12. Qxc4 O-O 13. O-O-O b5 14. Qd3 Bb7 15. f3 Rc8 16. h4 d5 17. g4 dxe4 18. Qxd8 Rfxd8 19. fxe4 Bxc3 20. Bxc3 Rxd1+ 21. Rxd1 Bxe4 22. Re1 f5 23. gxf5 exf5 24. Re3 b4 25. Bxb4 Rxc2+ 26. Kd1 Rxb2 27. a3 Rb1+ 28. Ke2 Rh1 29. Be7 Kf7 30. Bg5 h6 31. Bxh6 Rxh4 32. Bg5 Rh2+ 33. Ke1 Rg2 34. Bf4 Kf6 35. Rb3 Rc2 36. Rb6+ Rc6 37. Rb4 g5 38. Bh2 Bd3 39. Bb8 Bc4 40. a4 f4 41. a5 g4 42. Rb6 Re6+ 43. Rxe6+ Kxe6 44. Bxf4 Kf5 45. Bg3 Ke4 46. Kd2 Kf3 47. Bh2 Kf2 48. Kc3 Bb5 49. Kd4 g3 50. Bxg3+ Kxg3 51. Kc5 Kf3 52. Kb6 Ke3 53. Kc5 Kd3 54. Kb4 Kd4 55. Ka3 Kc5 56. Kb3 Bc6 57. Ka3 Kb5 58. Kb3 Kxa5 59. Ka3 Ba4 60. Ka2 Kb4 61. Kb2 Bb3 62. Kb1 Ka3 63. Ka1 a5 64. Kb1 Bc2+ 65. Ka1 Bd1 66. Kb1 Kb3 67. Ka1 a4 68. Kb1 Ka3 69. Ka1 Kb3 70. Kb1 Kc3 71. Ka1 Kc2 72. Ka2 Kc1 73. Ka3 Kb1 74. Kb4 Kb2 75. Ka5 a3 0-1
+</div>
+<p><br /><br />
+<strong>Game 7.</strong>
+My biggest blunder in this game was pushing my a pawn to backup the b-pawn. At least I pulled a draw. <br /></p>
+<div class="cbreplay">
+
+[Event "Under 1300 US Chess Online"]
+[Site "https://lichess.org/u6hu3pmr"]
+[Date "2021.01.02"]
+[White "dannys1000"]
+[Black "woh3"]
+[Result "1/2-1/2"]
+[UTCDate "2021.01.02"]
+[UTCTime "17:00:01"]
+[WhiteElo "2024"]
+[BlackElo "1602"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+57"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 Bf5 4. Nf3 Nbd7 5. Nc3 e6 6. dxe6 Bxe6 7. d4 c6 8. d5 cxd5 9. cxd5 Bf5 10. Bd3 Bxd3 11. Qxd3 Bb4 12. O-O Bxc3 13. bxc3 Nc5 14. Re1+ Kf8 15. Ba3 b6 16. c4 Qd6 17. Rad1 h5 18. Qd4 Kg8 19. Ne5 Qc7 20. d6 Qc8 21. d7 Ncxd7 22. Nxd7 Nxd7 23. Qxd7 Qxc4 24. Re8+ Kh7 25. Rxa8 Rxa8 26. Qd3+ Qxd3 27. Rxd3 b5 28. Rd7 Kg6 29. h3 a5 30. Rb7 b4 31. Bb2 f6 32. g3 Rc8 33. Rb5 Rc2 34. Bd4 Rxa2 35. f4 Ra3 36. Bc5 Rxg3+ 37. Kh2 Ra3 38. Bf8 Kf7 39. Bc5 Ra2+ 40. Kg3 Ra3+ 41. Kh4 g6 42. Rb7+ Ke6 43. Ra7 Kd5 44. Be7 Ke6 45. Bf8 Ra4 46. Re7+ Kf5 47. Rf7 b3 48. Kg3 Rxf4 49. Rb7 a4 50. Ba3 Rc4 51. Rb5+ Ke6 52. Rb6+ Kf5 53. Bb2 Rc2 54. Rxf6+ Kg5 55. h4+ Kh6 56. Rf2 Rc4 57. Rf8 Rg4+ 58. Kh3 g5 59. Rf6+ Kh7 60. Rf7+ Kg6 61. Rg7+ Kh6 62. Rxg5 Rxg5 63. Bc1 Kg6 64. hxg5 a3 65. Bxa3 Kxg5 66. Bb2 Kg6 67. Kh4 Kh6 68. Bc1+ Kg6 69. Bb2 Kf5 70. Kxh5 Ke4 71. Kg4 Kd3 72. Kf3 Kc2 73. Ba3 b2 74. Bxb2 1/2-1/2
+</div>
+<p><br /><br /></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/chess/2021/01/02/First-Rated-Chess-Tournement-2021/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 02 Jan 2021 09:30:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Chess Game No Blunders</title>
+                <link>http://localhost:4000/chess/2021/01/01/Chess-Game-No-Blunders/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>I was pleased with this game, the analysis engine said I only had one mistake and 0 blunders. Woot Woot!!</strong></p>
+
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css" />
+
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay">
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.13"]
+[Round "?"]
+[White "15953392"]
+[Black "Nicolyas_chess"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "1204"]
+[BlackElo "1222"]
+[TimeControl "600"]
+[EndTime "20:30:31 PST"]
+[Termination "15953392 won by checkmate"]
+
+1. e4 {[%timestamp 1]} 1... c5 {[%timestamp 1]} 2. Bc4 {[%timestamp 17]} 2...
+Nc6 {[%timestamp 16]} 3. Nc3 {[%timestamp 19]} 3... d6 {[%timestamp 12]} 4. Nf3
+{[%timestamp 35]} 4... Nf6 {[%timestamp 35]} 5. d3 {[%timestamp 20]} 5... g6
+{[%timestamp 14]} 6. Bg5 {[%timestamp 23]} 6... Bg7 {[%timestamp 14]} 7. Qe2
+{[%timestamp 49]} 7... O-O {[%timestamp 23]} 8. O-O-O {[%timestamp 16]} 8... a6
+{[%timestamp 10]} 9. h4 {[%timestamp 32]} 9... b5 {[%timestamp 101]} 10. Bb3
+{[%timestamp 30]} 10... Bg4 {[%timestamp 104]} 11. Bxf6 {[%timestamp 139]} 11...
+exf6 {[%timestamp 196]} 12. Nd5 {[%timestamp 45]} 12... Bxf3 {[%timestamp 176]}
+13. gxf3 {[%timestamp 27]} 13... Nd4 {[%timestamp 59]} 14. Qe3 {[%timestamp 69]}
+14... Nxb3+ {[%timestamp 62]} 15. axb3 {[%timestamp 14]} 15... Qa5 {[%timestamp
+277]} 16. Ne7+ {[%timestamp 154]} 16... Kh8 {[%timestamp 189]} 17. h5
+{[%timestamp 16]} 17... gxh5 {[%timestamp 140]} 18. Rxh5 {[%timestamp 43]} 18...
+Qa1+ {[%timestamp 53]} 19. Kd2 {[%timestamp 16]} 19... Qxb2 {[%timestamp 18]}
+20. Nf5 {[%timestamp 518]} 20... Rg8 {[%timestamp 996]} 21. Rxh7+ {[%timestamp
+49]} 21... Kxh7 {[%timestamp 142]} 22. Rh1+ {[%timestamp 17]} 22... Bh6
+{[%timestamp 54]} 23. Rxh6# {[%timestamp 17]} 1-0
+</div>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/chess/2021/01/01/Chess-Game-No-Blunders/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 01 Jan 2021 16:30:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>I hate to say it but</title>
+                <link>http://localhost:4000/life/2020/12/30/I-hate-to-say-it-but.markdown/</link>
+                <content:encoded>
+                    <![CDATA[
+                    I, like many people, am very tired of the coronavirus and all the problems it brought with it this year.
+The general rhetoric seems to be "I am can't wait until 2020 is over" but what they really mean to say is
+they can't wait for this pandemic to be over. Now as we approach the New Year in a day or so we are
+now getting more reports of an even more virulent strain of coronavirus has been discovered in the U.K.
+and last night I heard on the news about the first confirmed case of this new virulent strain here
+in the U.S.. It seems that the outlook for at least the first part of 2021 is going to be a bleak one. 
+Hopefully the vaccines will work and everyone will get them. I hope that the last half of 2021 can be
+semi-normal. 
+ 
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2020/12/30/I-hate-to-say-it-but.markdown/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 30 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Merry Christmas Everyone!</title>
+                <link>http://localhost:4000/life/2020/12/25/Merry-Xmas/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Merry Christmas Everyone! I hope it is as wonderful for you as it has been for me. <br /><br /></p>
+
+<div style="text-align: center;"><img src="/images/stardew-wedding.png" width="900" height="506" alt="" /></div>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2020/12/25/Merry-Xmas/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 25 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Cool Glowing Gamer Keyboard</title>
+                <link>http://localhost:4000/life/2020/12/20/Glowing-Gamer-Keyboard/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><br clear="all" /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pgcd-Ic4hWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p><br clear="all" /><br clear="all" /></p>
+
+<p>I got this as an early Xmas gift. I love how it looks and it has an AMAZING mechanic key feeling. Very Clicky-Clacky.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2020/12/20/Glowing-Gamer-Keyboard/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 20 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Cool Xmas</title>
+                <link>http://localhost:4000/life/2020/12/19/Cool-Christmas/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>So far Christmas seems really nice this year. Usually I don’t feel great around this time of year but this one seems nice. I got a cool new gamer keyboard and chair. Levelling up in Stardew Valley, kissed Sebastiasn for the first time. My family and freinds all seem to be doing ok. I think this Xmas might be ok!</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2020/12/19/Cool-Christmas/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 19 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Mark Manson</title>
+                <link>http://localhost:4000/quote/2020/12/17/Mark-Manson/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><br /><br />
+“The desire for a more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.” <br />
+Mark Manson</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/quote/2020/12/17/Mark-Manson/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 17 Dec 2020 18:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Vegan Ham Roll</title>
+                <link>http://localhost:4000/vegan/2020/12/17/Vegan-Ham-Roll/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><br /><br /></p>
+<div style="text-align: center;"><img src="/images/veganhamroll.png" width="380" height="380" alt="" /></div>
+<p><br /><br /></p>
+
+<p>I just ordered a lovely looking Vegan Ham for Christmas dinner, it looks wonderful. Can’t wait to try it. Ordered from <a href="http://www.myrtlegreens.com/">Myrtlegreens</a><br />
+2021-01-04 Update: I hate to say it but this thing was AWFUL! Squishy with no real texture and tasteless. I would not recommend this to anyone.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/vegan/2020/12/17/Vegan-Ham-Roll/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 17 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Testing Git Command Line Upload</title>
+                <link>http://localhost:4000/linux/2020/12/16/Testing-git-command-line/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>this is a test of the git command line upload</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/linux/2020/12/16/Testing-git-command-line/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 16 Dec 2020 09:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Forgot a Chess match</title>
+                <link>http://localhost:4000/chess/2020/12/15/Forgot-a-chess-match/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>totally forgot one of my chess matches today. Hopefully I can be paired for the second one. I’m sure that will do wonders for my rating.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/chess/2020/12/15/Forgot-a-chess-match/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 15 Dec 2020 10:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Hyacinths</title>
+                <link>http://localhost:4000/poem/2020/12/14/Hyacinths/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>If of thy mortal goods thou art bereft, And from thy slender store two loaves alone to thee are left, Sell one, and with the dole Buy hyacinths to feed thy soul.<br />
+<a href="https://quotes.yourdictionary.com/author/quote/586588">Mosleh Eddin Saadi, Gulistan</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/poem/2020/12/14/Hyacinths/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 14 Dec 2020 12:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Pokemon GO 2</title>
+                <link>http://localhost:4000/image/2020/12/13/Pokemon-GO-2/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Another trophy from my Visalia trip.</p>
+
+<p><img src="/images/zekrom.png" alt="pic" /></p>
+
+<p>From my good friend 8fortnite8</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/image/2020/12/13/Pokemon-GO-2/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 13 Dec 2020 16:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Pokemon GO</title>
+                <link>http://localhost:4000/image/2020/12/12/Pokemon-GO/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Joe and I went back to Visalia for community day to see and play with old friends. I did manage to get one of my lucky trades in. Not a super great fighter, but a good trophy.</p>
+
+<p><img src="/images/terrakion.png" alt="terrakion.png" /></p>
+
+<p>From my good friend 8yes8, thank you and Merry Christmas!!</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/image/2020/12/12/Pokemon-GO/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 12 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Japanese Bob Ross</title>
+                <link>http://localhost:4000/cool/2020/12/10/Japanese-Bob-Ross/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I found out about this guy from Reddit. I love this guy. A worthy succesor to Bob Ross.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F_Bl7JXQUTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/cool/2020/12/10/Japanese-Bob-Ross/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 10 Dec 2020 08:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Feeling a little sad today.</title>
+                <link>http://localhost:4000/life/2020/12/10/Feeling-a-little-sad-today/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I had to terminate an employee for ths first time today. It was difficult,mainly because I like him and identified
+with him. Sadly hejust kept making too many mistakes. I shook his hand, wished him luck and told him to never give up on his quest for self-improvement and education. All in all, he took it pretty well, but it still sucked.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2020/12/10/Feeling-a-little-sad-today/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 10 Dec 2020 05:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Loving this new blog format</title>
+                <link>http://localhost:4000/jekyll/update/2020/12/09/loving-this-new-blog-format/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Jekyll is a really great blog format.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/jekyll/update/2020/12/09/loving-this-new-blog-format/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 09 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Stardew Valley Swag</title>
+                <link>http://localhost:4000/image/2020/12/09/Stardew-Valley-Swag/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>This is a test of the image posting function</strong> This is a pic of some of my <a href="https://www.stardewvalleywiki.com/Stardew_Valley_Wiki">Stardew Valley</a> swag that I ordered.</p>
+
+<p><img src="/images/stardew.jpg" alt="Stardew.jpg" /></p>
+
+<p>I love this game so much.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/image/2020/12/09/Stardew-Valley-Swag/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 09 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Daily Mantra</title>
+                <link>http://localhost:4000/life/2020/12/09/Daily-Mantra/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>I am willing to be bad at the things I want to get better in</strong>
+This is what I have to tell myself when I am screwing up at the new things I am trying to learn.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/life/2020/12/09/Daily-Mantra/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 09 Dec 2020 15:48:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Chess Rage</title>
+                <link>http://localhost:4000/chess/2020/12/08/Chess-Rage/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>I was playing in an official online rated game against someone who was rated 300 points below me. I thought I had understood the 3 move repetition rule in tournaments well.</strong> I was ahead by a rook and the game ended with forced draw by the computer because supposedly I had violated the 3-rep rule. I was LIVID!!</p>
+
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css" />
+
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay">
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.01"]
+[Round "?"]
+[White "ComfyQueso"]
+[Black "15953392"]
+[Result "1/2-1/2"]
+[ECO "B06"]
+[WhiteElo "875"]
+[BlackElo "1235"]
+[TimeControl "2100+2"]
+[EndTime "18:59:39 PST"]
+[Termination "Game drawn by repetition"]
+
+1. d4 {[%timestamp NaN]} 1... g6 {[%timestamp NaN]} 2. e4 {[%timestamp 1]} 2...
+Bg7 {[%timestamp 1]} 3. Nf3 {[%timestamp 19]} 3... d6 {[%timestamp 14]} 4. Nc3
+{[%timestamp 5]} 4... Bg4 {[%timestamp 6]} 5. Be2 {[%timestamp 4]} 5... Bxf3
+{[%timestamp 17]} 6. Bxf3 {[%timestamp 1]} 6... Nd7 {[%timestamp 1]} 7. O-O
+{[%timestamp 105]} 7... Ngf6 {[%timestamp 2]} 8. Bg5 {[%timestamp 23]} 8... O-O
+{[%timestamp 2]} 9. Qd2 {[%timestamp 95]} 9... e6 {[%timestamp 102]} 10. Bh6
+{[%timestamp 36]} 10... c5 {[%timestamp 42]} 11. Bxg7 {[%timestamp 58]} 11...
+Kxg7 {[%timestamp 2]} 12. d5 {[%timestamp 162]} 12... e5 {[%timestamp 151]} 13.
+Nb5 {[%timestamp 238]} 13... Nb6 {[%timestamp 72]} 14. Qa5 {[%timestamp 109]}
+14... a6 {[%timestamp 608]} 15. Nc3 {[%timestamp 309]} 15... Nc4 {[%timestamp
+109]} 16. Qxd8 {[%timestamp 116]} 16... Rfxd8 {[%timestamp 16]} 17. Rab1
+{[%timestamp 67]} 17... Nd2 {[%timestamp 38]} 18. Rbd1 {[%timestamp 121]} 18...
+Nxf1 {[%timestamp 2]} 19. Rxf1 {[%timestamp 1]} 19... b5 {[%timestamp 11]} 20.
+h3 {[%timestamp 159]} 20... b4 {[%timestamp 1]} 21. Na4 {[%timestamp 6]} 21...
+Rab8 {[%timestamp 23]} 22. Be2 {[%timestamp 63]} 22... a5 {[%timestamp 14]} 23.
+f3 {[%timestamp 249]} 23... Nd7 {[%timestamp 1009]} 24. b3 {[%timestamp 235]}
+24... Nb6 {[%timestamp 116]} 25. Nb2 {[%timestamp 88]} 25... Ra8 {[%timestamp
+51]} 26. Bb5 {[%timestamp 70]} 26... Rab8 {[%timestamp 205]} 27. Bc6
+{[%timestamp 72]} 27... Nc8 {[%timestamp 76]} 28. g4 {[%timestamp 479]} 28...
+Ne7 {[%timestamp 13]} 29. Ba4 {[%timestamp 98]} 29... h6 {[%timestamp 172]} 30.
+Nc4 {[%timestamp 16]} 30... Ra8 {[%timestamp 628]} 31. Bb5 {[%timestamp 138]}
+31... Rab8 {[%timestamp 264]} 32. Ba4 {[%timestamp 220]} 32... Ra8 {[%timestamp
+71]} 33. Bb5 {[%timestamp 17]} 33... Ra7 {[%timestamp 40]} 34. Kg2 {[%timestamp
+340]} 34... Kf8 {[%timestamp 366]} 35. Rf2 {[%timestamp 207]} 35... Rb7
+{[%timestamp 62]} 36. Ba6 {[%timestamp 529]} 36... Ra7 {[%timestamp 31]} 37. Bb5
+{[%timestamp 48]} 37... Nc8 {[%timestamp 159]} 38. Kh2 {[%timestamp 457]} 38...
+Ne7 {[%timestamp 284]} 39. Kg2 {[%timestamp 147]} 1/2-1/2
+</div>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/chess/2020/12/08/Chess-Rage/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 08 Dec 2020 16:38:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Chess Test</title>
+                <link>http://localhost:4000/chess/2020/12/08/Chess-Test/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><strong>This is a test of the Chess game viewer.</strong></p>
+
+<link rel="stylesheet" type="text/css" href="https://pgn.chessbase.com/CBReplay.css" />
+
+<script src="https://pgn.chessbase.com/jquery-3.0.0.min.js"></script>
+
+<script src="https://pgn.chessbase.com/cbreplay.js" type="text/javascript"></script>
+
+<div class="cbreplay">
+
+[Event "World Championship 28th"]
+[White "Spassky, Boris V"]
+[Black "Fischer, Robert James"]
+[Site "Reykjavik"]
+[Result "1–0"]
+[Date "1972.08.06"]
+[WhiteElo "2660"]
+[BlackElo "2785"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Nb3 Qa3 10. Bxf6 gxf6 11. Be2 h5 12. 0-0 Nc6 13. Kh1 Bd7 14. Nb1 Qb4 15. Qe3 d5 16. exd5 Ne7 17. c4 Nf5 18. Qd3 h4 19. Bg4 Nd6 20. N1d2 f5 21. a3 Qb6 22. c5 Qb5 23. Qc3 fxg4 24. a4 h3 25. axb5 hxg2+ 26. Kxg2 Rh3 27. Qf6 Nf5 28. c6 Bc8 29. dxe6 fxe6 30. Rfe1 Be7 31. Rxe6
+</div>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/chess/2020/12/08/Chess-Test/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 08 Dec 2020 16:30:44 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Welcome to Jekyll!</title>
+                <link>http://localhost:4000/jekyll/update/2020/12/07/welcome-to-jekyll/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/jekyll/update/2020/12/07/welcome-to-jekyll/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 07 Dec 2020 16:09:07 -0800</pubDate>
+                <author></author>
+            </item>
+        
+    
+  </channel>
+</rss>

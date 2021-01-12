@@ -1,8 +1,8 @@
 # Site settings
-title:       The Iron Pig's Blog
+title:       William Orson Harris III Blog
 email:       
 author:      
-description: "My base of operations on the internet."
+description: "My base of opoerations on the internet"
 baseurl:     ""
 url:         "http://the-iron-pig.github.io"
 date_format: "%b %-d, %Y"
@@ -11,7 +11,6 @@ header_pages:
  - links.md
  - music.md
  - thoughts.md
- 
 
 # Google services
 google_verification:
@@ -56,7 +55,7 @@ bitbucket_username:
 stackoverflow_id:
 twitter_username:
 skype_username:
-steam_nickname: orsonharris
+steam_nickname:
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -68,7 +67,7 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: false
@@ -118,7 +117,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     5
+paginate:     4
 sass:
   style: compressed
 plugins:
