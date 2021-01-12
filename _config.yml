@@ -4,7 +4,7 @@ email:
 author:      
 description: "My base of operations on the internet."
 baseurl:     ""
-url:         "http://willowombat.github.io"
+url:         "http://the-iron-pig.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -50,7 +50,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: willowombat
+github_username: the-iron-pig
 reddit_username: woh3
 bitbucket_username:
 stackoverflow_id:
