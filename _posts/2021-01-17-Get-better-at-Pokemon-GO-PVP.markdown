@@ -4,7 +4,7 @@ title:  "Get better at Pokemon GO PVP"
 date:   2021-01-17 15:48:44 -0800
 categories: Pokemon GO
 ---
-*Some tips to get better at Pokemnon GO PVP*<br>
+*Some tips to get better at Pokemon GO PVP*<br>
 1. study the current meta: acquaint yourself with the big players in the current meta. You can usually do this by keeping up with posts from <a href="https://gamepress.gg/pokemongo/great-league-pvp-tier-list">Gamepress</a>, <a href="https://www.pokebattler.com/">Pokebattler</a>, <a href="https://gamepress.gg/pokemongo/gobattlesim">gobattlesim</a> etc.<br>
 2. Know the IV-s of your Pokemon, you can do this with the appraise Pokemon button or using an external app like Calcy-IV. In a mirror match a Pokemon with a 15 attack will beat one with a 14 attack.<br>
 3. Track your opponent's Pokemon and his switches. For example if you find you are in a favorable position doing super-effective damage to opponent's Pokemon with your quick attack they will likely swap out that Pokemon, if it was Altaria for example then say the words "Altaria in the back" so that you remember what will be showing back up again. <br>
