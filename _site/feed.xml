@@ -7,6 +7,21 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Can't wait to start reading this one!</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Star-Wars-Light-Jedi-Republic/dp/0593157710/ref=sr_1_1?dchild=1&amp;amp;keywords=light+of+the+jedi&amp;amp;link_code=qs&amp;amp;qid=1610579914&amp;amp;sourceid=Mozilla-search&amp;amp;sr=8-1&amp;amp;tag=mozilla-20&quot;&gt;Light of the Jedi: High Republic Book 1&lt;/a&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/light-of-the-jedi.jpg&quot; alt=&quot;Ligh of the Jedi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am a huge fan of the Star Wars books. Have been having trouble lately finding time and concentration required
+to read a book but I am actually excited about this one.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Jan 2021 15:48:44 -0800</pubDate>
+        <link>http://localhost:4000/star/wars/2021/01/13/Light-of-the-Jedi/</link>
+        <guid isPermaLink="true">http://localhost:4000/star/wars/2021/01/13/Light-of-the-Jedi/</guid>
+      </item>
+    
+      <item>
         <title>What people think programming is vs. how it actually is</title>
         <description>&lt;p&gt;My friend JK from Japan saw this and he said it made him think of me. It hilarious how true it is.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HluANRwPyNo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -343,55 +358,6 @@ My biggest blunder in this game was pushing my a pawn to backup the b-pawn. At l
         <pubDate>Sat, 02 Jan 2021 09:30:44 -0800</pubDate>
         <link>http://localhost:4000/chess/2021/01/02/First-Rated-Chess-Tournement-2021/</link>
         <guid isPermaLink="true">http://localhost:4000/chess/2021/01/02/First-Rated-Chess-Tournement-2021/</guid>
-      </item>
-    
-      <item>
-        <title>Chess Game No Blunders</title>
-        <description>&lt;p&gt;&lt;strong&gt;I was pleased with this game, the analysis engine said I only had one mistake and 0 blunders. Woot Woot!!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://pgn.chessbase.com/CBReplay.css&quot; /&gt;
-
-&lt;script src=&quot;https://pgn.chessbase.com/jquery-3.0.0.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script src=&quot;https://pgn.chessbase.com/cbreplay.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-
-&lt;div class=&quot;cbreplay&quot;&gt;
-
-[Event &quot;Live Chess&quot;]
-[Site &quot;Chess.com&quot;]
-[Date &quot;2020.12.13&quot;]
-[Round &quot;?&quot;]
-[White &quot;15953392&quot;]
-[Black &quot;Nicolyas_chess&quot;]
-[Result &quot;1-0&quot;]
-[ECO &quot;B20&quot;]
-[WhiteElo &quot;1204&quot;]
-[BlackElo &quot;1222&quot;]
-[TimeControl &quot;600&quot;]
-[EndTime &quot;20:30:31 PST&quot;]
-[Termination &quot;15953392 won by checkmate&quot;]
-
-1. e4 {[%timestamp 1]} 1... c5 {[%timestamp 1]} 2. Bc4 {[%timestamp 17]} 2...
-Nc6 {[%timestamp 16]} 3. Nc3 {[%timestamp 19]} 3... d6 {[%timestamp 12]} 4. Nf3
-{[%timestamp 35]} 4... Nf6 {[%timestamp 35]} 5. d3 {[%timestamp 20]} 5... g6
-{[%timestamp 14]} 6. Bg5 {[%timestamp 23]} 6... Bg7 {[%timestamp 14]} 7. Qe2
-{[%timestamp 49]} 7... O-O {[%timestamp 23]} 8. O-O-O {[%timestamp 16]} 8... a6
-{[%timestamp 10]} 9. h4 {[%timestamp 32]} 9... b5 {[%timestamp 101]} 10. Bb3
-{[%timestamp 30]} 10... Bg4 {[%timestamp 104]} 11. Bxf6 {[%timestamp 139]} 11...
-exf6 {[%timestamp 196]} 12. Nd5 {[%timestamp 45]} 12... Bxf3 {[%timestamp 176]}
-13. gxf3 {[%timestamp 27]} 13... Nd4 {[%timestamp 59]} 14. Qe3 {[%timestamp 69]}
-14... Nxb3+ {[%timestamp 62]} 15. axb3 {[%timestamp 14]} 15... Qa5 {[%timestamp
-277]} 16. Ne7+ {[%timestamp 154]} 16... Kh8 {[%timestamp 189]} 17. h5
-{[%timestamp 16]} 17... gxh5 {[%timestamp 140]} 18. Rxh5 {[%timestamp 43]} 18...
-Qa1+ {[%timestamp 53]} 19. Kd2 {[%timestamp 16]} 19... Qxb2 {[%timestamp 18]}
-20. Nf5 {[%timestamp 518]} 20... Rg8 {[%timestamp 996]} 21. Rxh7+ {[%timestamp
-49]} 21... Kxh7 {[%timestamp 142]} 22. Rh1+ {[%timestamp 17]} 22... Bh6
-{[%timestamp 54]} 23. Rxh6# {[%timestamp 17]} 1-0
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 01 Jan 2021 16:30:44 -0800</pubDate>
-        <link>http://localhost:4000/chess/2021/01/01/Chess-Game-No-Blunders/</link>
-        <guid isPermaLink="true">http://localhost:4000/chess/2021/01/01/Chess-Game-No-Blunders/</guid>
       </item>
     
   </channel>
