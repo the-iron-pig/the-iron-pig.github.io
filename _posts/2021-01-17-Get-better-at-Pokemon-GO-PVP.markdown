@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Get better at Pokemon GO PVP"
+date:   2021-01-17 15:48:44 -0800
+categories: Pokemon GO
+---
+*Some tips to get better at Pokemnon GO PVP*<br>
+1. study the current meta: acquaint yourself with the big players in the current meta. You can usually do this by keeping up with posts from Gamepress, Pokebattler, gobattlesim etc.<br>
+2. Know the IV-s of your Pokemon, you can do this with the appraise Pokemon button or using an external app like Calcy-IV. In a mirror match a Pokemon with a 15 attack will beat one with a 14 attack.<br>
+3. Track your opponent's Pokemon and his switches. For example if you find you are in a favorable position doing super-effective damage to opponent's Pokemon with your quick attack they will likely swap out that Pokemon, if it was Altaria for example then say the words "Altaria in the back" so that you remember what will be showing back up again. <br>
+4. Overcharging: this is one of the most surprising and frustrating aspects of advanced level play. Instead of unleashing your charged attacks as they become available you can "save them up". This can appear as if your opponent is getting extra moves when you aren't getting any but this is a subtle and powerful tactic of expert players. If you aren't taking major damage from your opponent and you can afford to do it then do it. If timed correctly it can be devastating to your opponent. <br>
+5. Learn how to withdraw your Pokemon with a fully charged attack ready in the chamber, that when when you bring the Pokemon back into the battle he has a charged attack ready to fire. 
+6. "<b>The extra shield</b>": if yu have a Pokemon who is about to die and you are able to perform a swap, do it. Even if the Pokemon isn't going to be useful in the battle you can use them as a 3rd shield. when your opponent it getting ready to unleash a charged attack and you are able to swap again, swap in your nearly dead Pokemon to take the hit instead, effectively it shielded your other Pokemon. <br>
+7. Damage types: use TMs and elite TMs to give your Pokemon as wide a spread of damage types as possible. Having the quick and both charged attacks all as a different type can be very effective. <br>
+8. Try to fight only with Pokemon that have a 15 attack stat. 
+9. Only fight with Pokemon that have two charged attacks, be trapped into just one damage type can lose you the game if your final match is against a Mon that is immune to your one damage type. 
+10. Keep in mind the game dynamic of swaps. Using this wisely is probably the single greatest characteristic that separates great players from merely good ones. Always remember that is you swap a Pokemon first then you are giving your opponent swap advantage and leaving yourself open to a "trade trap". If you swap, for example into a Giratina, and your opponent has Togekiss, they can swap and destroy your Giratina with charm before your Giratina can even get off a single attack. Likewise if your opponent swaps first they have given you the swap advantage. Try to capitalize on it wisely. <br>
+
+ 
