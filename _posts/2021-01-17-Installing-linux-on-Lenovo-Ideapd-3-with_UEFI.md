@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installing Linux on Lenovo Ideapd 3 UEFI"
+title:  "Installing Linux on Lenovo Ideapad 3 UEFI"
 date:   2021-01-17 16:48:44 -0800
 categories: Linux
 ---
