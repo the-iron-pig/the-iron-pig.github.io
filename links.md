@@ -31,6 +31,7 @@ Protonmail also offers secure file storage and VPN.<br><br>
 <ul>
 <li><a href="https://www.16personalities.com/free-personality-test">Do you know your personality type?</a></li>
 <li><a href="https://www.youtube.com/watch?v=zP1Ac8fXBjE">Are you a Highly Sensitive Person?</a></li>
+<li><a href="https://www.youtube.com/watch?v=xZVw-9ThmSM">Have you heard of EMDR?</a></li>
 </ul><br>
 I am an HSP and INFP<br clear="all"> 
 <b>Improve your Body and the World (because they are linked)</b><br>
@@ -48,7 +49,7 @@ If you care about the world and want to make a difference the single most powerf
 <li><a href="https://en.wikipedia.org/wiki/Go_(game)">Wiki</a></li>
 <li><a href="http://www.gokgs.com/">KGS Internet GO Server</a></li>
 </ul><br>
-Learn more Math! <br>
+Learn more <a href="https://www.khanacademy.org/math">Math!</a> <br>
 Read MORE!! <a href=" https://www.goodreads.com/willowombat
 ">My Goodreads</a>
 
