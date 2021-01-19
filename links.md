@@ -5,7 +5,7 @@ permalink: /Links/
 ---
 
 <div style="text-align: center;"><b>Some links to things I think are cool</b></div><br clear="all">
-<b><i>The Greatest Speech of All Time:</i></b> <br>In case you are wondering why he looks like Hitler in this video it is from a Charlie Chaplin film "<a href="https://en.wikipedia.org/wiki/The_Great_Dictator">The Great Dictator</a>" in which he is an ordinary man who happens to look like Hitler and through happenstance people confuse him for the real thing and give him a chace to speak to the world, wherein he delivers a completely different message than what they expected.<br>
+<b><i>The Greatest Speech of All Time:</i></b> <br>In case you are wondering why he looks like Hitler in this video it is from a Charlie Chaplin film "<a href="https://en.wikipedia.org/wiki/The_Great_Dictator">The Great Dictator</a>" in which he is an ordinary man who happens to look like Hitler and through happenstance people confuse him for the real thing and give him a chance to speak to the world, wherein he delivers a completely different message than what they expected.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8HdOHrc3OQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all"><br>
 <b>Internet Security</b>
 <ul>
