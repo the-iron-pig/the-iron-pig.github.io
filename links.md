@@ -26,18 +26,24 @@ Protonmail also offers secure file storage and VPN.<br><br>
 <li><a href="http://www.catb.org/~esr/faqs/hacker-howto.html">How to Become a Hacker</a></li>
 <li><a href="https://www.thememoryinstitute.com/the-peg-system.html">The PEG Method</a></li>
 <li><a href="https://artofmemory.com/wiki/Method_of_Loci">Method of Loci</a></li>
+</ul><br><br>
+<b>Know Thyself</b><br>
+<ul>
+<li><a href="https://www.16personalities.com/free-personality-test">Do you know your personality type?</a></li>
+<li><a href="https://www.youtube.com/watch?v=zP1Ac8fXBjE">Are you a Highly Sensitive Person?</a></li>
 </ul><br>
+I am an HSP and INFP<br clear="all"> 
 <b>Improve your Body and the World (because they are linked)</b><br>
 <div style="text-align: center;"><img src="/images/foodchain.jpeg" width="550" height="550" alt=""></div><br clear="all">
-If you care about the world and want to make a difference the single most powerful thing you can do to help is not driving an electric car or recycling but rather becoming <a href="https://www.peta.org/">Vegan</a>. It takes a little getting used to but your health and energy will improve, it will drastically help the environment and prevent climate collapse and we will live in a better world for all beings, not just humans. <br><br clear="all">
+If you care about the world and want to make a difference the single most powerful thing you can do to help is not driving an electric car or recycling but rather becoming <a href="https://www.peta.org/">Vegan</a>. It takes a little getting used to but your health and energy will improve, it will drastically help the environment and prevent climate collapse and we will live in a better world for all beings, not just humans. Watch <a href="https://www.youtube.com/watch?v=8gqwpfEcBjI">Earthlings</a> and find out about <a href="https://en.wikipedia.org/wiki/Calf_269">Calf 269</a><br><br clear="all">
 <b>Think more clearly through gaming</b><br>
-Chess<br>
+<b>Chess</b><br>
 <ul>
 <li><a href="http://www.chess.com">Chess.com</a></li>
 <li><a href="https://lichess.org">Lichess.org</a></li>
 <li><a href="https://www.milibrary.org/chess">Mechanic's Chess Institute in San Francisco</a></li>
 </ul>
-The Game of GO
+<b>The Game of GO</b>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Go_(game)">Wiki</a></li>
 <li><a href="http://www.gokgs.com/">KGS Internet GO Server</a></li>
