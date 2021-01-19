@@ -22,8 +22,8 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
-show_related_posts:   false
+animated:             true
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
@@ -60,14 +60,14 @@ google_plus_id:
 linkedin_username:
 angellist_username:
 medium_id:
-bitcoin_url:
-paypal_url:
+bitcoin_url: 35f4FxBv5ij2vsViQdg7n9Z3LRn6ASser2
+paypal_url: paypal.me/woh3
 flattr_button:
 telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: false
