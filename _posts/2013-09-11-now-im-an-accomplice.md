@@ -1,0 +1,13 @@
+---
+layout: post
+title: Now I'm an accomplice!
+date: 2013-09-11 18:47
+author: woh3
+comments: true
+categories: [Invasive Species, Jackson's Chameleon, Kalihi, Kamehameha Schools, Life, O'ahu, Science class]
+---
+So I was on a job at <a href="http://www.ksbe.edu/pdf/map_oahu.pdf">Kamehameha Schools Campus in Kalihi</a>, here on the island of O'ahu. I was leaving the job, driving down the winding road that leads down from the hill, and in the road in front of me, I see a <a href="https://en.wikipedia.org/wiki/Jackson%27s_chameleon">Jackson's Chameleon </a>crossing the road. <a href="http://woh3blog.files.wordpress.com/2013/07/jacks-chameleon.jpg"><img class="alignleft size-medium wp-image-881" alt="jacks-chameleon" src="http://woh3blog.files.wordpress.com/2013/07/jacks-chameleon.jpg?w=300" width="300" height="225" /></a>
+I stopped, to watch him make his trek across the road, and was contemplating a kidnapping, since I have wanted one for a long time now. They look like the mascot of my favorite linux distribution <a href="http://www.opensuse.org/en/">Opensuse Linux</a>
+<a href="http://woh3blog.files.wordpress.com/2013/07/opensuse_rust_green_by_techhead89.jpg"><img class="alignleft size-medium wp-image-882" alt="opensuse_rust_green_by_techhead89" src="http://woh3blog.files.wordpress.com/2013/07/opensuse_rust_green_by_techhead89.jpg?w=300" width="300" height="225" /></a>
+I decided against getting out of the car and kidnapping him, since he seemed hell-bent on getting to the forest on the other side of the road. Jackson's chameleon's have a very peculiar way of walking, their entire body lurches a bit forward every time they take a step, kind of like the gesture pointing dogs make when they spot their quarry, so it was entertaining to see him make his way to the sidewalk, up the stone wall, and into the green forest of freedom just beyond. I made a little chuckle, put my car in drive and headed back down the hill. Jackson's Chameleons are not native to Hawai'i, and are generally considered invasive, but was still surprised to see one. I heard there was a guy on the Windward side who breeds and sells them, but it's all very under the table kind of stuff. So just as I was about to reach the bottom of the hill, I drive past a grassy field, where there was a science class of children sitting on a circle around their teacher, on what I can only assume is a field trip, and the teacher is holding an empty plastic reptile cage, saying "has anyone seen the Chameleon? Everyone fan out and help me look for him. Did anyone see which way he went?"
+I stepped on the gas, glad the little Chameleon was free.

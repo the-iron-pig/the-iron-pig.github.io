@@ -1,0 +1,9 @@
+---
+layout: post
+title: To My Brother Clint
+date: 2014-06-11 10:39
+author: woh3
+comments: true
+categories: [Life]
+---
+<p>Hey Clint,</p><p>It's been kinda hard to communicate directly with you lately, I guess there are a lot of things getting in the way, not sure why. I wanted to explain to you that I don't have a single bad thought about you, or your loved ones. I guess there is some anger over a year-old face-book post, not written by me, where someone I knew said your neighborhood was a "trailer-park", and I did not correct him, sorry for that. Looking back on it, I probably should have corrected his mistake, I didn't mostly because I never thought that kind of a detail would matter. I know you guys have good homes, you own them, and own the land too, that's a pretty awesome achievement in this economy, and is more than I have accomplished right now. </p><p>I do not think in any way, shape, or form, that you guys live in a trailer-park. That would be dumb of me because I lived there too. You're my brother, I love you, I think you are a pretty cool guy, and the people who are special to you are special to me too. </p><p>Please remember that when I think of you guys, that I only wish you happiness and more happiness. The mistake was not something I said, but was something a guy I used to work with said, and don't think it should be held against me, but if there is any confusion, let this statement clear it up:</p><p>"Hey Rob, my family does NOT live in s trailer park. It is an Estate, with real homes, and real land owners, with real property."</p><p>So Clint, you know me, and you know I don't think like that, this post is my real feelings about the matter, and if anyone else says otherwise, then they are just trying to drive a wedge between us. </p><p>Love You Bro. </p>

@@ -1,0 +1,9 @@
+---
+layout: post
+title: If (Week Done) GoTo(Weekend)
+date: 2008-09-27 05:10
+author: woh3
+comments: true
+categories: [Uncategorized]
+---
+Well, nothing much eventful happened at work this week, we are getting busier, which is good, especially for our bonus. I am going to attend a training session in Bayesian statistical methods for data analysis class on Saturday Oct 4th, looking forward to that. I had to get a forbearance on my student loan, bills are just too tight right now to keep up on it. I rode my bike to work one day this week, it's not as great a bike as I had hoped, a little small for my body type, hoping to trade it in for an aluminum mongoose i saw. A coworker gave me a crock pot he doesn't use anymore, which is excellent, since I anticipate eating a lot of beans and rice in the near future, and maybe even the far future if this craziness on wall street keeps up, and while this is usually an apolitical blog, I want to go on record that the wall street bail out is bullshite!!! I guarantee you every single company that was number one had a close number two who deserves a chance to take over, and screw bailing out corporate executives, BAIL OUT us citizens who can't pay their mortgages, I assure you that will do more to keep our economy stable than bailing out people who own there own islands. The presidential debates tonight were not intense or exciting, but the difference was clear, Obama won, I think the word count was leaning in an obvious direction, and McCain looked old and tired, he really helped us by showing up and being so droll, he seemed more like an economics professor waiting for retirement than a fighter. I like some of the things he says, even though I'm still voting for Obama, but the only thing he really convinced me of was that he doesn't have energy.
