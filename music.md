@@ -30,6 +30,7 @@ permalink: /Music/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/STmNTlpbiFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all"><br clear="all">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vZAajrxvDs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all"><br clear="all">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tg00YEETFzg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all"><br clear="all">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1FQaNWQGmRo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all">
 **This is my favorite speech of all time, if you listen to this once a day it will change your life**
 <br clear="all"><br clear="all">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BmjleObN0jA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br clear="all"><br clear="all">
