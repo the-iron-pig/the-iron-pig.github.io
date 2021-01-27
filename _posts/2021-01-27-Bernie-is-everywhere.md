@@ -6,6 +6,6 @@ categories: meme
 ---
 Bernie is literally everywhere. <br clear="all"><br clear="all">
 
-<img src="/images/4vj93d.jpg" width="500" height="775" alt="">
+<img src="./images/4vj93d.jpg" width="500" height="775" alt="">
 
  
