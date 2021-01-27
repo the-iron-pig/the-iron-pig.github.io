@@ -6,6 +6,6 @@ categories: meme
 ---
 Bernie is literally everywhere. <br clear="all"><br clear="all">
 
-![Bernie](../images/4vj93d.jpg)
+![Bernie](/images/4vj93d.jpg)
 
  
