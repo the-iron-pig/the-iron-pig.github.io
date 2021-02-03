@@ -14,7 +14,7 @@ if you have not installed fwupdate then please do, usually on ubuntu it is <br>
  or on Fedora/RHEL <br>
  <pre>dnf install fwupdate</pre><br clear="all">
  If you need your system serial number you can find it with t he command...
-<pre>sudo dmidecode -t system<>/pre><br><br>
+<pre>sudo dmidecode -t system</pre><br><br>
 To find you system GUID you will need to run the command:
 <pre>fwupdate -l</pre><br>
 <img src="../images/fwupdate-command.png" width="1920" height="1080" alt=""><br clear="all">
