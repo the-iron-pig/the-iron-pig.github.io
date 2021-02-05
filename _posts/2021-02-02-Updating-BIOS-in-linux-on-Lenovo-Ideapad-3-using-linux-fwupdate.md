@@ -20,7 +20,7 @@ To find you system GUID you will need to run the command:
 <img src="/images/fwupdate-command.png" width="50%" height="50%" alt=""><br clear="all">
 it will give you back some long hex ID numbers (if your system is supported) and you will need this GUID to execute the command. Associated with each page of bios update fgiles is a readme file at the
 bottom, be sure to read it. <br>
-I downloaded the bios update file and extracted it, <br><br>
+I downloaded the bios update file and extracted it,<br>
 <img src="/images/bios.png" width="50%" height="50%" alt=""><br>
 For my system it says the bios update file I need is N2HET60W file, so I open a terminal and navigate to that folder with that BIOS update ID which contains a file named firmware.bin and an xml file with info. Once in that
 directory and having obtained the GUID I needed I can execute the command:
