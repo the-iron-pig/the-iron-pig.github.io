@@ -22,7 +22,6 @@ it will give you back some long hex ID numbers (if your system is supported) and
 bottom, be sure to read it. <br>
 I downloaded the bios update file and extracted it, <br><br>
 <img src="/images/bios.png" width="50%" height="50%" alt=""><br>
-
 For my system it says the bios update file I need is N2HET60W file, so I open a terminal and navigate to that folder with that BIOS update ID which contains a file named firmware.bin and an xml file with info. Once in that
 directory and having obtained the GUID I needed I can execute the command:
 <pre>fwupdate -a GUID firmware.bin</pre><br>
