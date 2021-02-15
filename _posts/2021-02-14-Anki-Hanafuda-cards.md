@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Memorize Hanfuda Cards and Yaku with Anki Flashcards"
+title:  "Memorize Hanafuda Cards and Yaku with Anki Flashcards"
 date:   2021-02-14 18:48:44 -0800
 categories: Anki
 ---
