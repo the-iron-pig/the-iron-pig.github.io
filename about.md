@@ -9,4 +9,4 @@ I am  Geo-technical Lab Manager. I live in Salinas, CA, USA. My main interests r
 I also run the Science Fiction Blog <a href="https://scifibookreader.wordpress.com/">Sci-Fi Bookreader</a>
 
 
-<div style="text-align: center;"><img src="/images/email.jpg" width="211" height="21" alt=""></div>
+
