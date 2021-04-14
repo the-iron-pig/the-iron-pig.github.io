@@ -5,7 +5,7 @@ permalink: /Contact-Me/
 ---
 <!-- modify this form HTML and place wherever you want your form -->
 
-<form
+<div style="text-align: center;"><form
   action="https://formspree.io/f/mzbyzpqk"
   method="POST"
 >
@@ -21,4 +21,4 @@ permalink: /Contact-Me/
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
-</form>
+</form></div>
