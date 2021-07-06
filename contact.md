@@ -19,6 +19,6 @@ permalink: /Contact/
   </label>
 
   <!-- your other form fields go here -->
-
+<br clear="all"><br clear="all">
   <button type="submit">Send</button>
 </form></div>
