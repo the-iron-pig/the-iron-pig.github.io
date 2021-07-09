@@ -12,9 +12,9 @@ permalink: /Contact/
   <label>
     Your email:
     <input type="email" name="_replyto">
-  </label>
+  </label><br clear="all"><br clear="all">
   <label>
-    Your message:
+    Your message:<br clear="all">
     <textarea name="message"></textarea>
   </label>
 
