@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I'm a Reddit Pokemon Now"
-date:   2021-12-16 16:48:44 -0800
+date:   2021-12-16 09:48:44 -0800
 categories: Life
 ---
 got this from my Reddit summary for the year. 
