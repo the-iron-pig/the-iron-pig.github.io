@@ -5,7 +5,8 @@ permalink: /Classify/
 ---
 
 
-<div style="text-align: center;">Will's soil classification tool</div><br clear="all"><br clear="all">
+<div style="text-align: center;">Will's Soil Classification Tool</div><br clear="all"><br clear="all">
+click "Run" and enter data as asked:
 
 
 
