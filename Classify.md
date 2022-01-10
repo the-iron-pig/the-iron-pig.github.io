@@ -1,3 +1,10 @@
+---
+layout: page
+title: classify
+permalink: /classify/
+---
+
+
 <div style="text-align: center;">Will's soil classification tool</div><br clear="all"><br clear="all">
 
 
