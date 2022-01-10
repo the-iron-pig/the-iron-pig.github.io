@@ -1,7 +1,7 @@
 ---
 layout: page
-title: classify
-permalink: /classify/
+title: Classify
+permalink: /Classify/
 ---
 
 
