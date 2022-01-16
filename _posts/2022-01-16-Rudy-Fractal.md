@@ -7,5 +7,5 @@ categories: Fractals
 
 Here is a nice Rudy Fractal I found. <br clear="all">
 
- <img src="../images/rudy2.png" width="1280" height="1024" alt="">
+ <img src="../images/rudy2.png" width="997" height="798" alt="">
 
