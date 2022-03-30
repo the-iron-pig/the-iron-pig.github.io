@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kool O Fratcal made with KF"
+title:  "Kool O Fractal made with KF"
 date:   2022-03-26 06:48:44 -0800
 categories: Fractals
 ---
