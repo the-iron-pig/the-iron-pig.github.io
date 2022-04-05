@@ -8,7 +8,7 @@ I have been playing a lot of Legend of Zelda: Link's Awakening and loving it. Wh
 enjoyable game, it was my mother's favorite. 
 
 <br clear="all"><br clear="all">
-<img src="/images/Screen-Shot-2019-09-22-at-9.29.58-PM-e1590101605642.png" width="688" height="344" alt="">
+<img src="/images/Screen-Shot-2019-09-22-at-9.29.58-PM-e1590101605642.png" width="600" height="300" alt="">
 
  
 
