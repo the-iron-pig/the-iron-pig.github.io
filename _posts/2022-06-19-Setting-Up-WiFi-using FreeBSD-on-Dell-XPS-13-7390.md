@@ -21,6 +21,8 @@ network={
 then, to get wifi up and running, you need to add two lines to /etc/rc.conf
 <code>
 wlans_iwlwifi0="wlan0"
+</code><br clear="all">and<br clear="all">
+<code>
 ifconfig_wlan0="WPA DHCP"
 </code>
 <br clear="all">
